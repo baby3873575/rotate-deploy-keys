@@ -1,0 +1,8 @@
+[
+    {
+        "repo_name":"my_org/my_project",
+        "key_title":"rotate-deploy-keys",
+        "jenkins_project_folder":"rdk"
+    }
+]
+
